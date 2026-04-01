@@ -1,4 +1,4 @@
- Hi there, I'm Leo Erick Pereyra Rodríguez 👋
+[9:32, 1/4/2026] Fabiana K. Salazar: # Hi there, I'm Leo Erick Pereyra Rodríguez 👋
 ### Senior Full Stack Engineer | Ph.D. in Science and Technology
 
 Experienced software architect with over 15 years in the industry. Specialized in building scalable, high-performance applications using the Node.js ecosystem and AWS Cloud infrastructure.
@@ -22,11 +22,13 @@ Experienced software architect with over 15 years in the industry. Specialized i
 ---
 
 ### 📫 Connect with me:
-- *LinkedIn:* [linkedin.com/in/leoerickp](https://www.linkedin.com/in/tu-perfil-aqui) 
-- *Email:* [Tu correo aquí]
+- *LinkedIn:* [linkedin.com/in/leoerickp](https://www.linkedin.com/in/leoerickp) 
+- *Email:* leoerickp@gmail.com
 
 ---
 
 ### ⚡ Technical Stats
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoerickp&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoerickp&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=leoerickp&show_icons=true&theme=radical" alt="Leo Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoerickp&layout=compact&theme=radical" alt="Top Langs" />
+</p>
