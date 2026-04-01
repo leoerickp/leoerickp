@@ -42,9 +42,14 @@ I have strong experience designing backend services, building full stack applica
 
 ### 📫 Connect with me:
 
-- *LinkedIn:* https://www.linkedin.com/in/leoerickp  
-- *GitHub:* https://github.com/leoerickp  
-- *Email:* leoerickp@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoerickp)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leoerickp)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoerickp@gmail.com)
+
+---
+
+### 📈 Profile Views
+![Views](https://komarev.com/ghpvc/?username=leoerickp&color=0077B5&style=flat-square&label=Profile+Views)
 
 ---
 
